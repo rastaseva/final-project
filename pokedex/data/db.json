@@ -3796,5 +3796,25 @@
       "name": "magearna-original",
       "id": 10147
     }
+  ],
+  "caughtPokemons": [
+    {
+      "id": 3,
+      "name": "venusaur",
+      "caughtDate": "Tue, 07 Sep 2021 16:59:45 GMT",
+      "isCaught": true
+    },
+    {
+      "id": 4,
+      "name": "charmander",
+      "caughtDate": "Tue, 07 Sep 2021 16:59:47 GMT",
+      "isCaught": true
+    },
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "caughtDate": "Tue, 07 Sep 2021 16:59:49 GMT",
+      "isCaught": true
+    }
   ]
 }
